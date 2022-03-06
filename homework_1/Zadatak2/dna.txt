@@ -1,0 +1,3 @@
+0 AAA
+1 TTTT
+2 GGAT
